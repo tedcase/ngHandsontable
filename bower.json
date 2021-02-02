@@ -5,11 +5,8 @@
     "angular-sanitize": "~1.5.10",
     "handsontable": "~0.28.4"
   },
-  "homepage": "https://github.com/Ullidtz/ngHandsontable",
-  "authors": [
-    "Handsoncode",
-    "Handsoncode <hello@handsontable.com>"
-  ],
+  "homepage": "https://github.com/tedcase/ngHandsontable",
+  "authors": ["Handsoncode", "Handsoncode <hello@handsontable.com>"],
   "description": "AngularJS directive for Handsontable",
   "main": "dist/ngHandsontable.js",
   "keywords": [

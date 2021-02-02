@@ -1,13 +1,13 @@
 {
   "name": "ng-handsontable",
   "description": "AngularJS directive for Handsontable",
-  "homepage": "https://github.com/Ullidtz/ngHandsontable",
+  "homepage": "https://github.com/tedcase/ngHandsontable",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ullidtz/ngHandsontable.git"
+    "url": "https://github.com/tedcase/ngHandsontable.git"
   },
   "bugs": {
-    "url": "https://github.com/Ullidtz/ngHandsontable/issues"
+    "url": "https://github.com/tedcase/ngHandsontable/issues"
   },
   "author": "Handsoncode <hello@handsontable.com>",
   "version": "0.13.0",
